@@ -9,6 +9,8 @@ This is part of Trilogy Bootcamp in Frontend web development. Learning how to cr
 
 
 
-![first-flex-layout-snapshot.JPG]
+![first-flex-layout-snapshot](./first-flex-layout-snapshot.JPG)
+
+
 
 
